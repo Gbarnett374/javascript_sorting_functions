@@ -1,2 +1,2 @@
-# javascript_sorting_functions
+# Javascript sorting functions
 - Some basic sorting functions using Javascript. 
